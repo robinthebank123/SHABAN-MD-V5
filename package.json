@@ -1,12 +1,12 @@
 {
-  "name": "SHABAN-MD",
+  "name": "༼༗ʀᴏʙɪɴᴛʜᴇʙᴀɴκ༗༽",
   "version": "5.0.0",
   "description": "A WhatsApp Bot Created By Mr Shaban",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
-    "stop": "pm2 stop SHABAN-MD",
-    "restart": "pm2 restart SHABAN-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ༼༗ʀᴏʙɪɴᴛʜᴇʙᴀɴκ༗༽",
+    "stop": "pm2 stop ༼༗ʀᴏʙɪɴᴛʜᴇʙᴀɴκ༗༽",
+    "restart": "pm2 restart ༼༗ʀᴏʙɪɴᴛʜᴇʙᴀɴκ༗༽"
   },
   "dependencies": {
   "@whiskeysockets/baileys": "npm:baileys-pro@latest",
